@@ -1,6 +1,6 @@
 # Visit-counter for a Director
 
-Scenario: Show patient visits during working days and holidays. 
+Scenario: Show patient visits during working days and holidays.
   Given:foot-fall sensor data.
   When:patient visits on both working days and holidays.
   Then:count the number of patients visited.
