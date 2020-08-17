@@ -4,7 +4,7 @@ Scenario: Report visitor trends during a week of operation
 
   Given:foot-fall counter sensor at the door entrance
   When:visitors visit the hospital during entire week
-  Then:anlaysis of trends on day to day basis
+  Then:number of visitors to hospital daily analysis.
 
 Scenario: Alert when seating capacity is full
 
