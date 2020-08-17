@@ -7,4 +7,4 @@ Scenario: Show patient visits during working days and holidays.
 Scenario: Compute parking slots to reserve for visiting specialists.
   Given:hospital staff attendance system data.
   When:specialists visit.
-  Then:increse the count and compute parking slots.
+  Then:increase the count and compute parking slots.
